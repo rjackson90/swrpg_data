@@ -19,26 +19,31 @@
 | Soak Value| 5     | 4 from Brawn, 1 from Enduring |
 
 Species: Droid
+
 Model:  HK-series (modified)
+
 Motivation: Connection - The Underworld
-Special Abilities:
-    - Droids do not need to eat, sleep, or breathe and are immune to toxins
-    - Cybernetic implant cap of 6
-    - May train one rank in 6 career skills upon selecting a career
-    - May train one rank in 3 specialization skills upon selecting a specialization
-Inorganic:
-    - Unaffected by Bacta tanks, stimpacks, or Medicine checks
-    - Self repair over time, Mechanics check for serious damage
-    - One rank in Enduring at game start
-Mechanical Being:
-    - Cannot become Force Sensitive nor acquire a Force Rating by any means.
+
+Special Abilities:  
+    - Droids do not need to eat, sleep, or breathe and are immune to toxins  
+    - Cybernetic implant cap of 6  
+    - May train one rank in 6 career skills upon selecting a career  
+    - May train one rank in 3 specialization skills upon selecting a specialization  
+
+Inorganic:  
+    - Unaffected by Bacta tanks, stimpacks, or Medicine checks  
+    - Self repair over time, Mechanics check for serious damage  
+    - One rank in Enduring at game start  
+
+Mechanical Being:  
+    - Cannot become Force Sensitive nor acquire a Force Rating by any means.  
     - Cannot use Force powers of any kind and cannot be affected by mind-altering
-      Force powers.
+      Force powers.  
 
 ### Skills
 
-Career: Soldier
-Specialization(s): Sharpshooter
+Career: Soldier  
+Specialization(s): Sharpshooter  
 
 | Skill                     | Career | Rank |
 |:--------------------------|:------:|:----:|
@@ -63,10 +68,10 @@ Specialization(s): Sharpshooter
 
 ### Weapons
 
-| Weapon        | Skill     | Dam | Crit | Range  | Encum | HP | Price | Special         |
-|:--------------|:----------|----:|-----:|:-------|------:|---:|------:|:----------------|
-| Blaster Pistol| Ranged(L) | 6   | 3    | Medium | 1     | 3  | 400   | Stun            |
-| Frag Grenadex2| Ranged(L) | 8   | 4    | Short  | 1     | 0  | 50    | Blast 6         |
+| Weapon          | Skill     | Dam | Crit | Range  | Encum | HP | Price | Special         |
+|:----------------|:----------|----:|-----:|:-------|------:|---:|------:|:----------------|
+| Blaster Pistol  | Ranged(L) | 6   | 3    | Medium | 1     | 3  | 400   | Stun            |
+| Frag Grenade x2 | Ranged(L) | 8   | 4    | Short  | 1     | 0  | 50    | Blast 6         |
 
 ### Character Concept
 
@@ -95,13 +100,14 @@ assassination robot.
 (Visionary Opportunists)
 (The New Recruit)
 
-Dirty Daan is the moniker of a prototype assassination droid, modeled after the 
+    Dirty Daan is the moniker of a prototype assassination droid, modeled after the 
 successful HK line of droids. Constructed 80 years prior to the Clone Wars, Dirty 
 Daan's official designation is DTY-144n. Designed as a protocol droid by Danteel 
 Yards, the model underwent numerous pre-production revisions in an effort to correct 
 a persistent lack of empathy in the personality core. As time went on, the Yards 
 fell on hard times and eventually abandoned the project and laid off the designers 
 as available resources dried up. 
+
     One of the junior designers, furious at being fired by Danteel, took DTY-144n 
 home where he reconfigured the droid into an assassination model. The persistent 
 problems with a lack of empathy as well as a tendency to overheat when made to engage 
@@ -109,6 +115,7 @@ in high-level planning served the droid well in its new role. During the long mo
 during which the designer worked with DTY-144n, the pair grew to be fast friends and
 DTY-144n acquired the nickname "Dirty Daan" due to his proclivity for low-brow humor
 and prurient interests.
+
     The process of restoring Daan to a working state allowed the designer to
 release his hatred for Danteel Yards and cancel his plans to send Daan to their
 headquarters with furious anger and murderous intent. Instead, the designer began
@@ -119,6 +126,7 @@ climbing kill count. As great as his prowess in combat was, Daan relied upon his
 designer to shield him from legal trouble. The designer was a shrewd fellow, and 
 managed the finances of the operation while inventing a series of clever backstories
 for Daan to throw off the occaisonal Republic investigator. 
+
     Things could not go on this way forever, and indeed they did not. As the years
 dragged on, Daan was dismayed to see his human companion grow older and feebler 
 with each passing decade. When the time finally came when the designer could no 
@@ -129,6 +137,7 @@ then-Senator Palpatine. The increasing lack of order and increase in chaos made 
 the perfect backdrop for Dirty Daan to continue his trademarked Dirty Deeds, at 
 first continuing to work for private clients and then later taking the side of the
 Republic during the Clone Wars in exchange for a pardon. 
+
     At the time of the deal, the Republic could only attribute perhaps a dozen or 
 so murders to Dirty Daan, and likely would not have granted him a pardon had his 
 true kill count, which at that time numbered in the low hundreds, had been known.
@@ -140,6 +149,7 @@ civillian casualites, ruined infrastructure, and wasted resources. The only thin
 preventing Dirt Daan from being memory wiped and recycled was his ability to pull
 off completely clutch manoevers and rescue many situations which were thought 
 hopeless.
+
     Nonetheless, at the end of the war the newly forming New Order couldn't let 
 Dirty Daan go fast enough. Pardon in hand, the assassin went back to his old ways,
 heading back to the Outer Rim to lend his services to the scum and villiany of the
@@ -152,5 +162,6 @@ programmed to fulfill. Relief finally came in the form of a contract to kill an
 officer in the Imperial Navy. Daan didn't know at the time that the contract was
 being offered by a Rebel agent, and yet gladly accepted the agent's offer to join
 the Rebellion at the contract's conclusion. 
+
 
 
