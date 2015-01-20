@@ -1,6 +1,63 @@
 # Dirty Daan
 ## Oath Breaker, Risk Taker, Fortune Maker
 
+### Stats and Abilities
+
+| Stat      | Value | (Optional) Description |
+|:----------|:-----:|:-----------------------|
+| Duty      | 10    | Combat Victory         |
+| Brawn     | 1     |                        |
+| Agility   | 1     |                        |
+| Intellect | 1     |                        |
+| Cunning   | 1     |                        |
+| Willpower | 1     |                        |
+| Presence  | 1     |                        |
+| Wound Max | 11    | 10 + Brawn             |
+| Strain Max| 11    | 10 + Willpower         |
+| Total XP  | 0     | Spent XP               |
+| Free XP   | 175   | Unspent XP             |
+
+
+Species: Droid
+Model:  HK-series (modified)
+Special Abilities:
+    - Droids do not need to eat, sleep, or breathe and are immune to toxins
+    - Cybernetic implant cap of 6
+    - May train one rank in 6 career skills upon selecting a career
+    - May train one rank in 3 specialization skills upon selecting a specialization
+Inorganic:
+    - Unaffected by Bacta tanks, stimpacks, or Medicine checks
+    - Self repair over time, Mechanics check for serious damage
+    - One rank in Enduring at game start
+Mechanical Being:
+    - Cannot become Force Sensitive nor acquire a Force Rating by any means.
+    - Cannot use Force powers of any kind and cannot be affected by mind-altering
+      Force powers.
+
+### Skills
+
+Career: Soldier
+Specialization(s): Sharpshooter
+
+| Skill                     | Career | Rank |
+|:--------------------------|:------:|:----:|
+| Athletics                 | Yes    | 1    |
+| Brawl                     | Yes    | 0    |
+| Knowledge (Warfare)       | Yes    | 1    |
+| Medicine                  | Yes    | 0    |
+| Melee                     | Yes    | 1    |
+| Ranged (Light)            | Yes    | 2    |
+| Ranged (Heavy)            | Yes    | 2    |
+| Survival                  | Yes    | 1    |
+| Cool                      | Yes    | 0    |
+| Perception                | Yes    | 1    |
+
+### Talents
+
+| Talent        | Rank | Description                |
+|:--------------|:----:|:---------------------------|
+| Enduring      | 1    |                            |
+
 ### Character Concept
 
 ```
