@@ -25,20 +25,20 @@ Model:  HK-series (modified)
 Motivation: Connection - The Underworld
 
 Special Abilities:  
-    - Droids do not need to eat, sleep, or breathe and are immune to toxins  
-    - Cybernetic implant cap of 6  
-    - May train one rank in 6 career skills upon selecting a career  
-    - May train one rank in 3 specialization skills upon selecting a specialization  
+- Droids do not need to eat, sleep, or breathe and are immune to toxins  
+- Cybernetic implant cap of 6  
+- May train one rank in 6 career skills upon selecting a career  
+- May train one rank in 3 specialization skills upon selecting a specialization  
 
 Inorganic:  
-    - Unaffected by Bacta tanks, stimpacks, or Medicine checks  
-    - Self repair over time, Mechanics check for serious damage  
-    - One rank in Enduring at game start  
+- Unaffected by Bacta tanks, stimpacks, or Medicine checks  
+- Self repair over time, Mechanics check for serious damage  
+- One rank in Enduring at game start  
 
 Mechanical Being:  
-    - Cannot become Force Sensitive nor acquire a Force Rating by any means.  
-    - Cannot use Force powers of any kind and cannot be affected by mind-altering
-      Force powers.  
+- Cannot become Force Sensitive nor acquire a Force Rating by any means.  
+- Cannot use Force powers of any kind and cannot be affected by mind-altering
+  Force powers.  
 
 ### Skills
 
