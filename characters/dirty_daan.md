@@ -12,13 +12,15 @@
 | Cunning   | 1     |                               |
 | Willpower | 1     |                               |
 | Presence  | 1     |                               |
-| Wound Max | 11    | 10 + Brawn                    |
+| Wound Max | 14    | 10 + Brawn                    |
 | Strain Max| 11    | 10 + Willpower                |
 | Total XP  | 180   | Spent XP                      |
 | Free XP   | 0     | Unspent XP                    |
+| Soak Value| 5     | 4 from Brawn, 1 from Enduring |
 
 Species: Droid
 Model:  HK-series (modified)
+Motivation: Connection - The Underworld
 Special Abilities:
     - Droids do not need to eat, sleep, or breathe and are immune to toxins
     - Cybernetic implant cap of 6
@@ -55,7 +57,16 @@ Specialization(s): Sharpshooter
 
 | Talent        | Rank | Description                |
 |:--------------|:----:|:---------------------------|
-| Enduring      | 1    |                            |
+| Enduring      | 1    | +1 Soak per rank           |
+
+### Gear
+
+### Weapons
+
+| Weapon        | Skill     | Dam | Crit | Range  | Encum | HP | Price | Special         |
+|:--------------|:----------|----:|-----:|:-------|------:|---:|------:|:----------------|
+| Blaster Pistol| Ranged(L) | 6   | 3    | Medium | 1     | 3  | 400   | Stun            |
+| Frag Grenadex2| Ranged(L) | 8   | 4    | Short  | 1     | 0  | 50    | Blast 6         |
 
 ### Character Concept
 
