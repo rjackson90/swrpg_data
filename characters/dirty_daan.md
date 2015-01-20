@@ -3,20 +3,19 @@
 
 ### Stats and Abilities
 
-| Stat      | Value | (Optional) Description |
-|:----------|:-----:|:-----------------------|
-| Duty      | 10    | Combat Victory         |
-| Brawn     | 1     |                        |
-| Agility   | 1     |                        |
-| Intellect | 1     |                        |
-| Cunning   | 1     |                        |
-| Willpower | 1     |                        |
-| Presence  | 1     |                        |
-| Wound Max | 11    | 10 + Brawn             |
-| Strain Max| 11    | 10 + Willpower         |
-| Total XP  | 0     | Spent XP               |
-| Free XP   | 175   | Unspent XP             |
-
+| Stat      | Value | (Optional) Description        |
+|:----------|:-----:|:------------------------------|
+| Duty      | 5     | Combat Victory (-5 for 5xp)   |
+| Brawn     | 4     |                               |
+| Agility   | 4     |                               |
+| Intellect | 1     |                               |
+| Cunning   | 1     |                               |
+| Willpower | 1     |                               |
+| Presence  | 1     |                               |
+| Wound Max | 11    | 10 + Brawn                    |
+| Strain Max| 11    | 10 + Willpower                |
+| Total XP  | 180   | Spent XP                      |
+| Free XP   | 0     | Unspent XP                    |
 
 Species: Droid
 Model:  HK-series (modified)
